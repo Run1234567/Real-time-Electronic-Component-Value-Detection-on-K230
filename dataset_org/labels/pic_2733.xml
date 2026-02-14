@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>pic_2733.jpg</filename>
+	<path>C:\Users\20461\Desktop\windows_v1.8.1\data\images\pic_2733.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>200kR</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>51</ymin>
+			<xmax>133</xmax>
+			<ymax>80</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,12 @@
+# 需要把路径替换成实际上的路径
+train: D:\YOLO\dataset\test\images
+val: D:\YOLO\dataset\test\images
+test: D:\YOLO\dataset\test\images
+
+nc: 20
+names: [
+  '3.3kO', '1.2R', '10nF', '22uF', '4.7uH', 
+  '330R', '4.7R', '100nF', '10pF', '4.7uF', 
+  '3.3uH', '200kR', '1kR', '0R', '5.1R', 
+  '2.7kR', 'LED', '10kR', '2.2kR', '560pF'
+]
