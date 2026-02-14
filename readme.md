@@ -12,7 +12,7 @@
   * `dataset_org/labels/`：对应的标注文件
 * **应用场景**：直接用于训练 YOLOv12 模型，识别电阻阻值、电容容值等丝印信息。
 
-## 📺 效果演示 (Demo)
+## [## 📺 效果演示 (Demo)]([![Bilibili](https://img.shields.io/badge/bilibili-观看完整演示视频-fb7299?style=for-the-badge&logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV1UbZJB7Ei8))
 
 
 ## 📂 项目结构
